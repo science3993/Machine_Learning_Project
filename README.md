@@ -1,1 +1,4 @@
 # Machine_Learning_Project
+Name :  RAJASEKHAR REDDY CHINNAPUREDDY
+Student ID :  700742705
+Email :  RXC27050@UCMO.EDU
